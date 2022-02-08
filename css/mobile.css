@@ -532,7 +532,7 @@
     /* Footer section */
 
     .footer-info > p{
-        color: #181818;
+        color: #000000;
     }
 
     .footer-container{
@@ -565,7 +565,7 @@
 
 
     .vertical_image{
-        flex-basis: 50%;
+        flex-basis: 180px;
         border-bottom: 2px solid #fff;
         padding-bottom: 2px;
     }
